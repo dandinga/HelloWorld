@@ -1,4 +1,7 @@
+<p>
 ![headshot](main/linkedin.jpg)
+</p>
+
 # HelloWorld
 Github ~~for Dummies~~ - a work in progress  
 
