@@ -1,4 +1,5 @@
-![headshot](https://raw.githubusercontent.com/dandinga/HelloWorld/blob/main/linkedin.jpg)
+![headshot](https://raw.githubusercontent.com/dandinga/HelloWorld/blob/main/linkedin.png)
+![headshot2](linkedin.png)
 
 # HelloWorld
 Github ~~for Dummies~~ - a work in progress  
