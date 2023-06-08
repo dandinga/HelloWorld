@@ -1,4 +1,3 @@
-![headshot](https://raw.githubusercontent.com/dandinga/HelloWorld/blob/main/linkedin.png)
 ![headshot2](linkedin.png)
 
 # HelloWorld
