@@ -1,4 +1,4 @@
-![headshot2](linkedin.png)
+![headshot](linkedin.png)
 
 # HelloWorld
 Github ~~for Dummies~~ - a work in progress  
